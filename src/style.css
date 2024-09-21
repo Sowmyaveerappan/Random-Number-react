@@ -1,0 +1,16 @@
+#outerbox{
+    border: solid rgb(237, 188, 10) 2px;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    background-color: bisque;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    
+}
+#button{
+    padding: 10px;
+    background-color: black;
+    color: azure;
+}
